@@ -1,0 +1,2 @@
+[functions.sync-firebase-profile]
+verify_jwt = false
